@@ -7,7 +7,7 @@
 
   以下のコマンドを実行する
 
-  curl -L raw.github.com/yfujii01/setting_oreoreSSL/master/oreore.sh | sh
+  curl -L raw.github.com/yfujii01/setting_oreoreSSL/master/make.sh | sh
 
 - 手動でコマンドを実行する場合
 
